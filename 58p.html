@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>자기 소개</title>
+    <style>
+        body{background-color: bisque; margin-left: 40px; margin-right: 40px;}
+        h1{text-align: center;}
+        line{height: 5px; border: solid gray; background-color: grey;}
+        span{color: red;font-size: 20px;}
+    </style>
+    <script>
+        function show() { document.getElementById("fig").src = "idPhoto.png"}
+        function hide() { document.getElementById("fig").src= "";}
+    </script>
+    
+</head>
+<body>
+    <h1 onmouseover="show()" onmouseout="hide()">전경호</h1>
+    <hr>
+    <div><img id="fig" src=""></div>
+    <p>저는 부산광역시 <span>경성대학교 소프트웨어학과</span>에 재학중입니다.</p>
+    <p><span>웹 프로그래밍</span> 강의를 수강하고 있습니다.</p>
+</body>
+</html>
