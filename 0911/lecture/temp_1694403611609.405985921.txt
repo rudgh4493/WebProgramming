@@ -1,0 +1,105 @@
+김주현 isadora@naver.com 010-2519-0395 연락은 카톡, 메일로
+전자출석부는 잘 안함 5~6주에 한번 갱신 
+엑셀로 전부 점수관리
+시험이후 이의신청 필요하면 반드시
+
+영타 300타 이상 발표 -중간이상 학기말 전에 -안되면 발표,태도0점
+발표 주제 줄것 1~5점- 보통2,3점
+
+출석10 중간30 기말30 과제20 발표 10 태도@
+
+워드프레스 공부  php
+
+http://117.16.94.50
+filezilla 프로그램
+
+
+워드프레스 홈페이지 만들기
+
+연습문제 매주 나감
+html 자바스크립트
+
+html
+중간전
+기말이후
+php
+라라곤으로 웹서버만들기
+
+생능출판 www.booksr.co.kr 
+HTML5+CSS3+Javascript 웹 프로그래밍 (수정판)
+
+비주얼 스튜디오 사용함 - visual studio code -단순한에디터임, 비주얼스튜디오랑 코드랑 다름
+
+발표주제		대부분 2~3점
+git & github 
+github hosting & netlify 
+
+
+emmet cheat
+html코드 작성할 때
+
+
+html은 head랑 body로 이루어져있음 후에 PR
+
+www.webprogramming.co.kr
+
+
+중간기말은 연습문제에서 다 나옴 거의 다 만점나올듯? 발표랑 레포트에서 점수차이날 것
+
+
+service 제공 관계
+server - client
+프론트엔드 백엔드 풀스택
+브라우저 gs.statecounter.com 크롬 엣지 파이어폭스 사파리 오페라
+
+URL URN URI 구분
+
+html css javascript 로 분리된 웹페이지 만들기
+flash -> Canvas
+다양한 텍스트 편집기
+
+
+
+2장- http://webprogramming.co.kr/example
+1.
+<! 주석
+태그 속성 속성값
+웹페이지 타이틀 		<title>첫 타이틀</title>
+<h1> <h6> 태그로 문단제목달기		h7 이상은 태그적용X 디폴트사이즈 적용
+타이틀로 속성으로 툴팁달기 	
+<p>로 단락 나누기
+<hr>로 수평선 긋기 ------------------
+그냥 적어서 여러개의 화이트캐릭터(공백,줄바꿈, 탭)가 존재하면 공백 하나로 설정
+&nbsp
+태그로 새로운줄 넘어가기
+문자, 기호 심볼 입력.
+<pre>태그
+텍스트 꾸미기
+10.
+블록과 인라인태그		https://www.w3schools.com/html/html_blocks.asp
+	블록태그		항상 새 라인에서 시작해 출력 <div>
+	인라인태그	블록속에 삽입되어 블록의 일부로 출력 <span>	
+메타 데이터	데이터를 설명하는 데이터
+		헤드태그 안에 작성
+<base> <link> <meta>
+이미지 삽입	<img>태그 src속성에 이미지주소지정 src alt width height
+리스트만들기	순서있는, 순서없는, -
+	<ol> <ul> <dt> <dd>
+표만들기
+행열만들기 	<tr> <th> colspan rowspan
+하이퍼링크	<a href="naver.com">네이버</a>	top같은거(멘위로가는거ㄱㄴ)
+target	 	blank self parent top 	child,parent,top 윈도우
+		윈도우의 이름 클릭
+20.
+2개의 인라인 프레임을 가진 웹페이지
+2개의 사이트 내장	<iframe>
+<video>
+<audio>
+
+
+
+chap1, 2, 3
+
+
+
+
