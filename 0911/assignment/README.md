@@ -1,7 +1,8 @@
 # WebProgramming
-103p
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bbcc0767-7c3a-43c9-bcf0-36addff3c5f9)
+103p Open Challenge
+
 스마트폰 설명에 해당하는 음성삽입
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bbcc0767-7c3a-43c9-bcf0-36addff3c5f9)
 
 
 목차에 링크를 달고 각 정보들에 앵커설정하여 연결
