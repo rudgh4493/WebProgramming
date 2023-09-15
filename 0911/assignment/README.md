@@ -21,25 +21,33 @@
 <br><br><br>
 
 # 108p 2-1번
+
 pre 태그를 이용하여 각 주에 대한 내용 추가
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/d0bff55c-ebdc-4e6f-9334-dbaf6f55ecc4)
 
 <br><br><br>
 
 # 108p 2-2번
+
 ul 태그로 순서없는 리스트를 출력
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/194587da-5014-4b29-ab9b-508622afeb57)
 
 # 108p 3번
+
 1. caption 태그로 나의 셀카 표제목 추가
 2. 표 추가 - 테두리 0으로 이미지 삽입
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/fe4db2a6-de73-47ea-a121-e57df9bef3ba)
 
 <br><br><br>
 
 # 108p 4번
+
 1. caption 태그로 학생 신체 검사 표제목 추가
 2. 표 추가 - 헤드 바디 바닥 구분
+   
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/9096fbb0-909e-4b08-a2c1-b71828b1cf18)
 
 <br><br><br>
