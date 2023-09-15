@@ -72,6 +72,9 @@ ul 태그로 순서없는 리스트를 출력
 <br><br><br>
 
 # 109p 6번
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/1ab3466d-3426-4fd1-9e41-6d9f14167949)
+
 <br><br><br>
 
 # 110p 7번
