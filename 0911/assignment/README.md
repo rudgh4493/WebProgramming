@@ -1,15 +1,15 @@
 # 103p Open Challenge
 
 1. 스마트폰 설명에 해당하는 음성삽입
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bbcc0767-7c3a-43c9-bcf0-36addff3c5f9)
 
-
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/aa1b6790-11fd-4a6d-8177-c3d9e3b40ee2)
+<br>
 2. 목차에 링크를 달고 각 정보들에 앵커설정하여 연결
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/d7191daa-51ed-4d92-8f37-53e9fabc68e5)
-
-
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/4f6c66ef-95c1-4a63-9599-bd9c7c765768)
+<br>
 3. 각 정보를 클릭시에 해당 정보에 대한 위키피디아를 탭에서 생성
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/9137122d-ac5f-4a77-b976-cc231046efc0)
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/2aaea2ef-1cd6-43bc-be26-944cd48c1785)
+
 <br><br><br>
 
 # 107p 1번
