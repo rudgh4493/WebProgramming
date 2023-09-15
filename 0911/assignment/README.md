@@ -43,16 +43,30 @@ ul 태그로 순서없는 리스트를 출력
 
 <br><br><br>
 
-# 108p 4번
+# 108p 4-1번
 
 1. caption 태그로 학생 신체 검사 표제목 추가
 2. 표 추가 - 헤드 바디 바닥 구분
-   
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/9096fbb0-909e-4b08-a2c1-b71828b1cf18)
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/4ff141ac-c5a8-495f-b848-0ce5fb52b458)
+
+<br><br><br>
+
+# 108p 4-2번
+
+1. caption 태그로 과일 수입 표 표제목 추가
+2. 표 추가 - 헤드 바디 바닥 구분, 바디에 사진 삽입
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/e673fa6c-b8ae-4309-a3ec-63605cad6792)
 
 <br><br><br>
 
 # 109p 5번
+1. ul 태그로 순서없는 리스트 출력
+2. 각 데이터에 해당하는 정보에 대한 하이퍼링크 설정
+   
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/7660abe4-4bfa-410e-be47-7b69dfeebaeb)
+
 <br><br><br>
 
 # 109p 6번
