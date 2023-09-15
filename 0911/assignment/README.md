@@ -1,5 +1,4 @@
-# WebProgramming
-103p Open Challenge
+# 103p Open Challenge
 
 스마트폰 설명에 해당하는 음성삽입
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bbcc0767-7c3a-43c9-bcf0-36addff3c5f9)
@@ -13,3 +12,4 @@
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/9137122d-ac5f-4a77-b976-cc231046efc0)
 
 
+#107p 1번
