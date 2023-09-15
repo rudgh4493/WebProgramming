@@ -1,16 +1,19 @@
 # 103p Open Challenge
 
-1. 스마트폰 설명에 해당하는 음성삽입
+1. p 태그로 스마트폰 설명 삽입
+2. audio 태그로 스마트폰 설명에 해당하는 음성삽입 - controls 추가
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/aa1b6790-11fd-4a6d-8177-c3d9e3b40ee2)
 <br><br>
 
-2. 목차에 링크를 달고 각 정보들에 앵커설정하여 연결
+3. 목차에 링크를 달고 각 정보들에 앵커설정하여 연결
+4. 각 정보들에 해당하는 내용 삽입
+5. p 태그로 Copyright 삽입
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/4f6c66ef-95c1-4a63-9599-bd9c7c765768)
 <br><br>
 
-3. 각 정보를 클릭시에 해당 정보에 대한 위키피디아를 탭에서 생성
+5. 각 정보를 클릭시에 해당 정보에 대한 위키피디아를 탭에서 생성
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/2aaea2ef-1cd6-43bc-be26-944cd48c1785)
 <br><br><br>
@@ -71,26 +74,36 @@ ul 태그로 순서없는 리스트를 출력
 
 # 109p 5번
 1. ul 태그로 순서없는 리스트 출력
-2. 각 데이터에 해당하는 정보에 대한 하이퍼링크 설정
    
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/44c6cd91-ddcd-4946-838c-96d2a7206b6c)
 <br>
 
+2. 각 데이터에 해당하는 정보에 대한 하이퍼링크 설정
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/07affb41-d762-41c2-aca7-eb11b9372fd2)
 <br><br><br>
 
 
 # 109p 6번
-
+1. iframe 태그로 왼쪽 오른쪽 인라인프레임 생성
+2. left iframe엔 109p_p5.html 연결, 너비 250px 설정
+3. right iframe엔 웹프로그래밍 사이트 연결, 너비 500px 설정
+   
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/1ab3466d-3426-4fd1-9e41-6d9f14167949)
-
 <br><br><br>
+
 
 # 110p 7번
+1. p 태그로 애국가 가사 단락설정
+2. audio 태그로 애국가 음성 삽입 - controls 추가
 
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/d41efcc3-b7bb-4e2a-a6da-da68740d9e48)
 <br><br><br>
 
+
 # 110p 8번
+1. p 태그로 자기소개 단락설정
+2. video 태그로 빅버드 영상 삽입 - controls 추가
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/3551520a-c59c-4fb8-b741-9e5137bf7c74)
 
 <br><br><br>
 
