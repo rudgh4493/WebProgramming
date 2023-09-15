@@ -66,6 +66,8 @@ ul 태그로 순서없는 리스트를 출력
 2. 각 데이터에 해당하는 정보에 대한 하이퍼링크 설정
    
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/7660abe4-4bfa-410e-be47-7b69dfeebaeb)
+<br>
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/07affb41-d762-41c2-aca7-eb11b9372fd2)
 
 <br><br><br>
 
