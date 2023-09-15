@@ -11,6 +11,8 @@
 3. 각 정보를 클릭시에 해당 정보에 대한 위키피디아를 탭에서 생성
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/9137122d-ac5f-4a77-b976-cc231046efc0)
 <br>
+<br>
+<br>
 
 
 
