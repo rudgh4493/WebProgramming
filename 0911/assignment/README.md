@@ -50,7 +50,7 @@ ul 태그로 순서없는 리스트를 출력
 2. 표 추가 - 테두리 0으로 이미지 삽입
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/715ee65c-6325-419b-94ee-04f0371a467d)
-<br><br><br?
+<br><br><br>
 
 
 # 108p 4-1번
@@ -103,6 +103,7 @@ ul 태그로 순서없는 리스트를 출력
 # 110p 8번
 1. p 태그로 자기소개 단락설정
 2. video 태그로 빅버드 영상 삽입 - controls 추가
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/3551520a-c59c-4fb8-b741-9e5137bf7c74)
 
 <br><br><br>
