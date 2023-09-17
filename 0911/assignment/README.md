@@ -22,7 +22,7 @@
 # 107p 1번
 
 1. 기호, 심볼들을 엔터티를 이용해 표현
-2. pre 태그를 이용하여 입력한 그대로의 포맷출력 (박태준의 가곡)
+2. pre 태그를 이용하여 입력한 그대로의 포맷출력 (박태준의 가곡 - 산길)
 
   ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/a81a153e-1a9c-4dcb-b5c0-edb3d7db8602)
 <br><br><br>
