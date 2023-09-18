@@ -1,0 +1,95 @@
+0918 웹프로그래밍
+
+index.html 	console log
+
+css 	html문서의 색이나 모양의 외간을 꾸미는 언어 ,style
+방법1	<style></style>
+    2	<p style ="--"></p> 	해당 태그에만 사용 	인라인이 우선순위가 더 높음
+    3	외부 스타일 시트 파일 가져오기	<link> 4. @import
+	방법들로 css적용가능	4번이 많이 쓰임
+
+스타일 상속	부모태그로부터 상속
+스타일 합치기, 오버라이딩
+		우선순위 알아두기	
+
+#로 개별지정 가능
+
+셀렉터 	html태그의 모양을 꾸밀 스타일 시트를 선택하는 기능
+class 셀렉터	.으로 시작  
+id 셀렉터	#으로 시작	각 태그를 유일하게 구분	
+셀렉터 조합	자식셀렉터  div>strong{--}	div 직계의 strong에만 적용
+		자손셀렉터 ul strong{-}		ul의 자손 strong에 적용
+전체셀렉터	와일드문자(*) 모든 태그에 적용시키는 셀렉터
+속성셀렉터	특정속성에 대해 값이 일치하는 태그에만 스타일 적용하는 셀렉터
+가상셀렉터 	특정 조건, 상황에서 스타일 적용
+		focus(클릭시), blur(클릭뗄 시) 구분하기
+
+emmet cheat 쓰기
+w3schools.com
+
+색 관련 프로퍼티
+텍스트 꾸미기	
+css3의 표준단위	html5엔 꼭 단위 적어주기 ex) 5px
+폰트	d2coding폰트	
+css3의 박스모델	
+	콘텐츠 패딩 테두리 여백
+	top right botton left(시계방향)	
+uri url urn 구분
+url	naver.com/index.html/~~~
+urn	http://www.naver.com/index.html
+uri	urn+url
+
+background 단축 프로퍼티
+text shadow 프로퍼티
+box shadow
+cursor 마우스 커서
+
+
+css zen garden		html은 동일, css만 다 다름
+
+
+포트폴리오 만들기
+컨텐츠를 css style
+	
+빔캠프 css
+https://www.youtube.com/@veamcamp
+
+게임으로 css배우기 css게임
+피그마, 카카오오븐 발표과제
+
+
+이번주 레포트 
+3장 4장, 웹사이트만들기(콘텐츠), 반응형 자기소개 웹사이트 만들기 - 내 형식으로 만들기(빔캠프)
+빔캠프 과제는 없음
+
+
+배치 	css3로 html 태그가 출력되는 위치 지정
+	블록박스		<div>
+	인라인박스	<span>
+	인라인블락박스	
+박스의 배치	position
+	상대배치 position:relative	
+	절대배치	position:absolute
+overflow 프로퍼티
+리스트 꾸미기
+표 꾸미기
+폼 꾸미기
+애니메이션 전환, 변환
+레포트-콘텐츠에맞춰서 애니메이션 추가
+마우스 하버로 크기 색바꾸는거 효과 추가
+폰트바꾸기
+영상 소스코드로 영상 만들기 /만든 레포트로
+영상 2개 만들기
+read.md에 무조건 적기
+반드시 수정하지말기	
+
+우리의 포트폴리오 사이트 만들기
+
+index.html
+테이블태그를 사용해서 정리
+
+202p openchallenge
+207~209p
+249p open challenge
+253~256p
+
