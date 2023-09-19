@@ -1,0 +1,29 @@
+
+p {
+    font-family: "휴먼편지체";
+    text-indent: 1em;
+}
+body{
+    background: aliceblue;
+    
+}
+span{
+    
+			font-family: "";
+            font-weight: bold;
+			color: blue;
+}
+header{
+    text-align: center;
+    font-family: 20em,"";
+    color: brown;
+
+
+}
+section{
+    background: mistyrose;
+}
+footer{
+    background: orange;
+    border-radius: 50px;
+}
