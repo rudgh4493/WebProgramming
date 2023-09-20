@@ -1,0 +1,25 @@
+
+h1 {
+    text-align: center;
+}
+html body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+header{
+    font-family: 20em,"";
+    background: yellow;
+
+
+}
+section{
+    margin: 10px;
+    background: pink;
+}
+footer {
+    height: 8%;
+    background: plum;
+    clear: both;
+    
+}
