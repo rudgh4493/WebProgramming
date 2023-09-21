@@ -56,6 +56,7 @@
 2. tabel태그 border 1설정
 3. Brown, DeepSkyBlue, Blueviolet, Gold, DarkOrange, OliveDrab의 코드, 색 작성
 4. 색 칸에 td태그 스타일로 배경색 적용
+   
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bb81d309-88ab-43f3-89ad-14f6de4912ba)
 <br><br><br>
 
@@ -95,10 +96,12 @@
 # 209p_p7
 
 1. div태그 카드 뒷장 이미지
+   
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/ac067d40-2d4a-41d0-9875-5ce72b49c51b)
 <br><br>
 
 2. div태그 마우스 hover셀렉터 스페이드7 카드 이미지
+   
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/840ae1fa-4dd7-4098-ad96-30619e246555)
 <br><br><br>
 
