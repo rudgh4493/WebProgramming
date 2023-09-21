@@ -2,11 +2,11 @@
 
 1. 기본적인 내용은 104p.html과 동일
 2. 스타일은 203p.css 외부 스타일 시트 사용
-3. 스마트폰 h1 태그에 글자색 brown, 텍스트정렬 center
+3. 스마트폰 h1 태그에 글자색 brown, 중앙정렬
 4. 기본적인 폰트는 휴면편지체, 들여쓰기 1em
-5. hr 태그에 1px 굵게 black 직선테두리 
-
-   ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/43e9ecaf-7308-4a1d-8879-c32c8829a7df)
+5. hr 태그에 1px 굵게 black 직선테두리
+   
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/a40e317e-a2eb-4406-be93-cedf6987397b)
 <br><br>
 
 6. 목차제목, 문단제목~ h3 태그에 글자색 blue, 그림자 skyblue 
@@ -28,4 +28,28 @@
 14. footer 태그에 배경색 orange, 둥근 모서리 테두리
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bb8dc51c-e2b7-4563-999e-09b66ac94253)
-<br><br>
+<br><br><br>
+
+
+#207p_p1
+
+1. 배경색 mistyrose
+2. h3태그 글자색 navy, 우측정렬/ p태그 글자색 blueviolet
+3. 음악, 김치찌개 막국수 span태그로 글자색 blue 배경색 deepskyblue 
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bef955eb-6d13-4558-8181-8dccc8549682)
+<br><br><br>
+
+
+#207p_p2
+
+
+
+
+#207p_p3
+#208p_p4
+#208p_p5
+#209p_p6
+#209p_p7
+#209p_p8
+#210p_p9
