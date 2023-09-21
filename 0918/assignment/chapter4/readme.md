@@ -20,12 +20,13 @@
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/e9e4490a-275d-4081-b2f9-3be7380a1438)
 <br><br>
 
-9. 설문지 header 태그에 글자색 brown, 텍스트정렬 center
-10. 기본적인 폰트는 휴면편지체, 들여쓰기 1em
-11. body에 배경색 aliceblue, section에 배경색 mistyrose 
-12. 항목 span으로 글자색 blue, 볼드체
-13. 학년, 성별에 라디오버튼, 관심분야 콤보박스, 진로 체크박스, 남기고싶은말 textarea 
-14. footer 태그에 배경색 orange, 둥근 모서리 테두리
+9. 스타일은 survey4.css 외부 스타일 시트 사용
+10. 설문지 header 태그에 글자색 brown, 텍스트정렬 center
+11. 기본적인 폰트는 휴면편지체, 들여쓰기 1em
+12. body에 배경색 aliceblue, section에 배경색 mistyrose 
+13. 항목 span으로 글자색 blue, 볼드체
+14. 학년, 성별에 라디오버튼, 관심분야 콤보박스, 진로 체크박스, 남기고싶은말 textarea 
+15. footer 태그에 배경색 orange, 둥근 모서리 테두리
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bb8dc51c-e2b7-4563-999e-09b66ac94253)
 <br><br><br>
