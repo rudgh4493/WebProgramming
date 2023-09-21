@@ -4,7 +4,7 @@
 2. 스타일은 203p.css 외부 스타일 시트 사용
 3. 스마트폰 <h1>태그에 글자색 brown, 텍스트정렬 center
 4. 기본적인 폰트는 휴면편지체, 들여쓰기 1em
-5. <hr>에 1px 굵게 black 직선테두리 
+5. hr태그에 1px 굵게 black 직선테두리 
 
    ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/43e9ecaf-7308-4a1d-8879-c32c8829a7df)
 <br><br>
