@@ -117,7 +117,7 @@
 # 255p 6-1번
 
 1. img태그로 스폰지밥 출력, #rotate셀렉터로 애니이름 rotate, 애니주기 1초, 애니횟수 infinite
-2. @keyframe rotate 100%로 360도 회전
+2. @keyframe rotate 100%로 360도 회전 (시계방향)
  
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/f06c3937-1b98-4de2-acd9-a8a90d5ac26b)
 <br><br><br>
@@ -126,7 +126,7 @@
 # 255p 6-2번
 
 1. img태그로 스폰지밥 출력, #rotate셀렉터로 애니메이션 이름 rotate, 애니메이션 기간 1초, 애니메이션 횟수 infinite
-2. @keyframe rotate 50%로 -90도 회전, 100%로 90도 회전
+2. @keyframe rotate 50%로 -90도 회전, 100%로 90도 회전 (왼쪽90도, 오른쪽90도)
 
    
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/edd3a31f-f479-45c4-ae72-6f53a7c254cd)
