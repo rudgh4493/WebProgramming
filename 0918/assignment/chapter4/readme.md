@@ -12,7 +12,7 @@
 6. 목차제목, 문단제목~ h3 태그에 글자색 blue, 그림자 skyblue 
 7. 목차 ul 태그에 1px 점선 테두리 적용
    
- ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/a67c9a57-b02f-48af-8b64-c71affd8b68b)
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/a67c9a57-b02f-48af-8b64-c71affd8b68b)
 <br><br>
 
 8. footer 태그에 배경색 orange, 둥근 모서리 테두리, 설문조사 survey4.html 삽입
@@ -102,7 +102,7 @@
 
 2. div태그 마우스 hover셀렉터 스페이드7 카드 이미지
    
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/840ae1fa-4dd7-4098-ad96-30619e246555)
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/edd6337f-94a1-4c22-9609-7053870fe7ef)
 <br><br><br>
 
 
