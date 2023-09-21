@@ -125,7 +125,7 @@
 
 # 255p 6-2번
 
-1. img태그로 스폰지밥 출력, #rotate셀렉터로 애니이름 rotate, 애니주기 1초, 애니횟수 infinite
+1. img태그로 스폰지밥 출력, #rotate셀렉터로 애니메이션 이름 rotate, 애니메이션 기간 1초, 애니메이션 횟수 infinite
 2. @keyframe rotate 50%로 -90도 회전, 100%로 90도 회전
 
    
@@ -161,15 +161,35 @@
 
 5. a태그 마우스 :hover셀렉터 글자색 violet
 
-
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/869d2179-ff81-40b9-8516-c64eba72ff82)
-
+<br><br><br>
 
 
 # 255p 9번
 
+1. h4태그 제목 카푸치노 만드는 순서
+2. 순서없는 리스트로 텍스트작성
+3. 임의의 순서 span태그로 지정
+4. h4태그 볼드체, 중앙정렬, 1.6em
+5. li span태그 절대위치, 글자색 green, 이탤릭체, 볼드체, 2.3em
+6. ol태그 list-style-type 없음
+7. li p태그 왼쪽여백 40px, 디스플레이 inline-block, 너비 80%, 상단여백 10px
+8. div태그 #border셀렉터 테두리 3px solid brown 설정
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/8e55f5dc-9da8-471c-b0da-9c5871c06427)
+<br><br><br>
 
 
 # 255p 10번
 
+1. div 태그안에 img "?", p태그 "질문있습니다" 삽입
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/40bca814-4b44-4bd4-952d-980c0cfea531)
+<br><br>
+
+3. div태그 animation셀렉터 애니메이션이름 animation, 애니메이션 기간 3s, 애니메이션 횟수 1
+4. keyframes animation 0% 왼쪽여백 100%, 100% 왼쪽여백 0% - 초기에 오른쪽 끝에서 마지막 왼쪽 끝까지 이동
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/a096826c-ae4f-4551-a126-55caf7200faf)
+<br><br><br>
 
