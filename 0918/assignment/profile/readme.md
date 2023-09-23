@@ -28,8 +28,9 @@
 8. 표를 이용하여 프로그램 나열 html css javascript C python java
 9. 표 border구분선추가, 상하좌우 구분선 삭제
 10. 표 hover시 배경색 darkblue, 글자색 white bold
+    
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/8776642a-cab2-45cc-859d-d47ce3cab57b)
 
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/40a22e77-7b76-49e5-9cce-7c0fbf7971b8)
 <br><br>
 
 
