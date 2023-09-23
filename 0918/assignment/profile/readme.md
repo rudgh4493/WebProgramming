@@ -36,12 +36,12 @@
 
 11. PROJECT항목 대학강의 중 만든 직접만든 프로그램 소개
 12. Java문제예시 video태그로 소개 control, 설명추가
-13. Python문제예시 video태그로 소개 control, 설명추가
     
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/421f5a2e-b16c-47e1-848f-c963f6e5d25f)
-<br>
+<br><br>
 
+13. Python문제예시 video태그로 소개 control, 설명추가
 
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/f2d2c3b0-c0f1-43d5-9772-448fb336b881)
 
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/e6a2103f-8927-4ccd-a1e3-1afc35fe6537)
