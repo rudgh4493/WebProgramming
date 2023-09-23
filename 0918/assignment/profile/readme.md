@@ -1,13 +1,15 @@
 
 1. header태그로 제목, 각 목차의 링크 설정, 박스그림자로 구분
-2. 기본폰트 외부로 IBM Plex Sans KR, 16px
-3. 목차 p:hover시 글자색 blue bold 
-4. section 배경색 white, 좌우 하단 여백 10%
-5. MYINFO항목 사진삽입, table태그로 표를 이용해 정보추가
-6. hr태그로 목차와 정보 분리
-7. hr 색 설정, 위아래 여백60px
+2. 기본폰트 외부로 IBM Plex Sans KR, 16px, 글자색 #2f2f2f
+3. body태그 배경색 gainsboro
+4. 목차 p:hover시 글자색 blue bold 
+5. section 배경색 white, 좌우 하단 여백 10%
+6. MYINFO항목 사진삽입, table태그로 표를 이용해 정보추가
+7. hr태그로 목차와 정보 분리
+8. hr 색 설정, 위아래 여백60px
+   
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/593ec373-918d-4ae7-ae53-921c80f8514a)
 
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/f8f8295a-5cf0-4978-a515-9dde625fba80)
 <br><br>
 
 
@@ -37,6 +39,7 @@
     
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/421f5a2e-b16c-47e1-848f-c963f6e5d25f)
+<br>
 
 
 
