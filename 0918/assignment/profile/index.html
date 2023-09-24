@@ -9,12 +9,13 @@
     <div class="wrapper"> 
         <header>
         <p>전경호 PROFILE</p> 
-            <ul>
+            <ul> 
+                <li><a href="#opinion">OPINION</a></li>
                 <li><a href="#project">PROJECTS</a></li>
                 <li><a href="#skill">SKILL</a></li>
                 <li><a href="#contact">CONTACT</a></li>
                 <li><a href="#about">ABOUT</a></li>
-                <li><a href="#my info">MY INFO</a></li>
+                <li><a href="#my_info">MY INFO</a></li>
             </ul>
         </header>
     
@@ -83,9 +84,9 @@
                     <td>HTML</td><td>CSS</td><td>Javascript</td>
                 </tr>
                 <tr>
-                    <td>C</td><td>Python</td><td>Java</td></tr>
+                    <td>C</td><td>Python</td><td>Java</td>
+                </tr>
             </table>
-            </ol>
         </section>
         
         <section id="project">
@@ -94,6 +95,7 @@
             <div>
                 <h3>Java Problem Example</h3>
                 <video src="https://rudgh4493.github.io/WebProgramming/0918/assignment/profile/assets/javaVideo.mp4" controls></video>
+                <br>
                 <p>
                     자바를 이용한 프로그램입니다.
                     랜덤수를 생성, 평균값, 평균이상값의 개수, 평균이하값의 개수를 구하는 프로그램입니다.
@@ -104,12 +106,56 @@
             <div>
                 <h3>Python Problem Example</h3>
                 <video src="https://rudgh4493.github.io/WebProgramming/0918/assignment/profile/assets/pythonVideo.mp4" controls></video>
+                <br>
                 <p>
                     파이썬을 이용한 프로그램입니다.
                     랜덤한 세 수를 생성, 그 세 수의 값과 위치를 맞추는 게임입니다.
                 </p>               
                 
             </div>             
+        </section>
+
+        <section id="opinion">
+            <h2>Opinion</h2>
+            <hr>
+            <h3>당신의 의견을 적어주세요!</h3>
+            <form id="servey">
+                <div>
+                    <span>설문지</span>
+                    <br><br>
+                    성별
+                    <input type="radio" name="sex" value="1">남
+                    <input type="radio" name="sex" value="2">여 
+                    <br><br>
+
+                    나이 
+                    <input type="number" name="age" min="1" max="99">
+                    <br><br>
+                                         
+                    해당 페이지에 대한 의견을 자유롭게 적어주세요
+                    <br>
+                    <textarea cols="43" rows="4"></textarea>
+                    <br>
+                    <input type="submit" name="submit" value="제출" id="sub">
+                </div>  
+
+                <div id="thx">
+                    <p>
+                        <span1>
+                            THANKYOU<br>
+                        </span1>
+                        <span2>
+                            FOR <br>
+                        </span2>
+                        <span3>
+                            YOUR<br>
+                        </span3>
+                        <span4>
+                            OPINION
+                        </span4>
+                    </p>
+                </div>
+            </form>
         </section>
     </div>
     
