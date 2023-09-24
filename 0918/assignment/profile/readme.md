@@ -8,7 +8,8 @@
 7. hr태그로 목차와 정보 분리
 8. hr 색 설정, 위아래 여백60px
    
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/593ec373-918d-4ae7-ae53-921c80f8514a)
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/d227f174-a1b1-4297-9272-ca18186b1ef2)
+
 
 <br><br>
 
@@ -20,7 +21,7 @@
 7. 사진hover시 배경색 aliceblue, 텍스트hover시 글자색 darkblue bold
 8. 텍스트 클릭 시 전화, 메일 깃허브 링크이동
    
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bdcd3d0b-7d0f-4912-9a35-3f9d2089891b)
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/33951838-dd95-4ae7-90fa-784742818672)
 <br><br>
 
 
@@ -29,7 +30,7 @@
 9. 표 border구분선추가, 상하좌우 구분선 삭제
 10. 표 hover시 배경색 darkblue, 글자색 white bold
     
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/8776642a-cab2-45cc-859d-d47ce3cab57b)
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/a6038cad-70d7-46ee-b430-9114a4956d15)
 
 <br><br>
 
@@ -38,10 +39,21 @@
 12. Java문제예시 video태그로 소개 control, 설명추가
     
 
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/421f5a2e-b16c-47e1-848f-c963f6e5d25f)
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/cd5bad71-6031-4697-8d6c-afacbf5c09bf)
 <br><br>
 
 13. Python문제예시 video태그로 소개 control, 설명추가
 
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/f2d2c3b0-c0f1-43d5-9772-448fb336b881)
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/2f8e8db9-a7c1-4881-863a-43dcda667bc0)
+<br><br>
+
+
+
+14. 의견항목 왼쪽 설문지와 오른쪽 텍스트 애니메이션 추가
+15. form태그로 radio태그 성별, number태그 나이, textarea태그 의견, submit태그 제출버튼 삽입
+16. animation태그로 각각 THANKYOU, FOR, YOUR, OPINION에 글자색 변하면서 왼쪽으로 움직이는 애니메이션 삽입
+
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/aa3207cc-ec0f-416e-b466-d8213046f4fb)
+<br><br>
 
