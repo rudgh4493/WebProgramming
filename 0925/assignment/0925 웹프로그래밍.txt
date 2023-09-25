@@ -1,0 +1,66 @@
+0925 웹프로그래밍
+자바스크립트 언어		웹프로그래밍 개념 창시
+	HTML문서에 내장	스크립트 언어	단순(C언어 차용)
+	프론트엔드
+ASP PHP JSP -> Spring Kotlin
+코드위치 	<script></script>
+웹페이지 내에 여러번 삽입가능
+DOM 문서 객체 모델	
+js파일 	자바스크립트 외부파일
+href에 자바스크립트 코드 작성
+자바스크립트로 HTML콘텐츠 출력
+자바스크립트 다이얼로그 	프롬프트 다이얼로그	확인 다이얼로그	경고다이얼로그
+자바스크립트 식별자
+자바스크립트 문장 	한줄에 한문장일경우 세미콜론 생략가능
+데이터타입	숫자 논리 문자열 객체레퍼넌스 널 타입
+변수 	변수타입선언X
+지역변수 전역변수
+javascript.info	
+상수	02이진수 08진수 10진수 0x16진수
+연산자	산술 증갑 비트 시프트 대입 비교 논리 조건
+제어문	선택문 if switch
+	반복문 for while dowhile
+	생략문 break continue
+	복귀 return
+예제 6-21 for문에서 while문으로 변경
+argument
+adder()함수
+전역함수 eval() parseInt() isNaN()
+
+7장
+자바스크립트 객체		코어객체 HTMLDom객체 브라우저객체
+코어객체 	Array Date String Math
+자바스크립트 배열		https://ko.javascript.info
+
+카카오오븐	프로토타이핑 툴
+	프로토타이핑-	초기시스템의 모형을 간단히 만들어 사용자에게 소개, 피드백요구 개선
+		개발자들과 사용자들의 의사소통상의 효과를 증진시키기 위하여 취하는 시스템개발상의 기법이다
+		
+Mock Up Design 	
+	Figma	Design Tool 	Dev Mode 	Plugins& AI
+
+Figma	UI
+	와이어프레임	간단히 구성
+	프로토타입	구성된걸 만든 초본
+대용품	AdobeIllustrate sketch AdobeXD ProtoPie Miro MSWhiteboard PowerPoint
+
+
+자바스크립트 배열 만들기 	[원소나열]
+	배열보다 큰 인덱스에 원소추가하면 값이 비어있는 중간의 원소들도 생기는 문제 발생
+array 객체	Date 객체	String객체	Math객체
+	대소문자 uppercase로 구분
+사용자 객체 만들기
+리터럴표기법으로 만들기
+프로토타입	funtion으로 만든다 	프로토타입함수를 생성자함수라고도 함
+	new연산자로 객체생성
+
+
+javascript.info	javascript.info	javascript.info	javascript.info	javascript.info	
+
+
+
+레포트 문제
+
+
+
+
