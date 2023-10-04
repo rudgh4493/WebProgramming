@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document.write()</title>
+</head>
+<body>
+    <h3>document.write()로 표만들기</h3>
+    <hr>
+    <table border="1">
+        <tr>
+            <td>n</td>
+            <script>
+                let n=0;
+                for(n=0;n<10;n++){
+                    document.write('<td>' + n + '</td>')
+                }
+            
+            </script>
+        </tr>
+        <tr>
+            <td>n<sup>2</sup></td>
+            <script>
+                let n2=0;
+                for(n=0;n<10;n++){
+                    document.write('<td>' + n*n + '</td>')
+                }
+            
+            </script>
+        </tr>
+    </table>
+</body>
+</html>

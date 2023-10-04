@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>do-while과 break</title>
+</head>
+<body>
+    <h3>암호를 입력하라!</h3>
+    <hr>
+    
+	<script>
+			let password = prompt("암호를 대라.");
+			while(true){
+				if(password == "you") break;
+				else password = prompt("다시 입력해라");
+			}
+            document.write("통과!")
+	</script>
+
+    
+</body>
+</html>
