@@ -37,7 +37,7 @@
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/8c2f1a40-02a5-4a06-9384-accc744f4242)
 
-<br>
+<br><br>
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/fd22dc93-3e19-40d5-8d4f-771ef7808bb0)
 <br><br><br>
@@ -79,12 +79,12 @@
 1. prompt()함수로 요일을 입력받음
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/72b09f5d-9004-41bf-b2e6-53566f6cb372)
-<br>
+<br><br>
 
-2. 월~목, 금~일. 요일에 맞추어 출근, 휴일 출력
+2. 월 ~ 목, 금 ~ 일. 요일에 맞추어 출근, 휴일 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/fac6a5b6-157c-49cd-9af8-b1a08e669232)
-<br>
+<br><br>
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/08563dc5-a910-4153-ada3-b2c198a13c2b)
 <br><br><br>
@@ -95,13 +95,15 @@
 1. prompt()함수로 암호를 입력받음
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/45d8bd9e-24ad-4663-adfe-feeb3d316e93)
-<br>
+<br><br>
 
 2. 맞는 암호 입력시 통과
+   
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/62923efe-3d98-4f1e-b759-12347e7c5236)
 <br>
 
-3. 틀린 암호 입력시 재입력 요구
+4. 틀린 암호 입력시 재입력 요구
+   
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/bb957be3-f333-44af-9755-0f00f01d9c26)
 <br><br><br>
 
@@ -111,7 +113,7 @@
 1. 큰 수를 비교하여 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/f1ef8ef1-b8b9-4267-9f2b-61720916488b)
-<br>
+<br><br>
 
 2. 두 수를 비교하는 big()함수를 작성
 
@@ -124,7 +126,7 @@
 1. %를 5번 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/2db38b8d-d0e8-4d6e-b0af-e5987602b0b1)
-<br>
+<br><br>
 
 2. %를 수에맞게 출력하는 pr()함수 작성
 
@@ -142,7 +144,7 @@
 2. 큰 자리수와 낮은 자리수의 같고 다름을 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/1d4ae1ba-7679-4827-ab13-55dbed8e1498)
-<br>
+<br><br>
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/b9eaaee3-46e4-4032-9cf9-6b75c92de3f8)
 <br><br><br>
@@ -153,7 +155,7 @@
 1. prompt()힘수로 수식을 입력받음
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/62e0035f-fc22-4e1f-82d9-3499d9dc4454)
-<br>
+<br><br>
 
 2. eval()함수로 수식을 계산
 
