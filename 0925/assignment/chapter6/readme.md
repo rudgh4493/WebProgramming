@@ -1,4 +1,6 @@
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/e60eb97d-7a76-4bf3-946c-1ad50efd1120)# 303p OpenChallenge
+# 303p OpenChallenge
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/e60eb97d-7a76-4bf3-946c-1ad50efd1120)
 
 1. prompt()로 정수를 입력하도록 함.
 
