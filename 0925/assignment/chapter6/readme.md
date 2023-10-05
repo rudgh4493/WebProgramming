@@ -20,10 +20,11 @@
 # 307p_p1(1)
 
 1. onmouseover로 배경색이 노란색으로 변경
+   
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/0035b280-4849-4fd9-ab17-3dc4fe367d93)
 <br><br>
 
-2. 자바스크립트부분을 <script>태그에 삽입 그에따라 수정
+3. 자바스크립트부분을 <script>태그에 삽입. 그에 따라 수정
    
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/cb2b4ec0-5c2e-4531-84bd-f467374f01a8)
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/b291c414-a6c4-46c1-8af4-7e2eb5cba83e)
@@ -39,8 +40,20 @@
 <br>
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/fd22dc93-3e19-40d5-8d4f-771ef7808bb0)
+<br><br><br>
+
 
 # 307p_p2
+
+1. 자바스크립트 코드를 본문에 맞춰 <script>태그로 완성
+   
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/670ef017-2d88-4525-9200-b346714b637f)
+<br>
+
+![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/fe85a504-6284-4779-af5d-f64916562c3a)
+<br><br><br>
+
+
 
 # 308p_p3(1)
 # 308p_p3(2)
