@@ -115,11 +115,11 @@
 
 1. prompt()로 책제목, 저자, 가격을 5번 입력요구
 2. split()로 ,(콤마)를 기준으로 분할, 인덱스로 책제목 저자 가격 저장
-3. book배열 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/9a1e45eb-cf11-4de7-b5cb-47747dfc49aa)
 <br>
 
+3. book배열 출력
 4. 제일 가격이 높은 책제목 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/6708d786-8e34-4016-91c1-bb0738793fde)
