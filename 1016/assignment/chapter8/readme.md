@@ -35,6 +35,7 @@
 # 384p_p1(3).html
 
 리스트 클릭 시 배경색을 yellowgreen으로 변경
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/1d3e767b-fb92-42bf-8c1d-d04d65ed1c62)
 <br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/8d982ce4-261c-4e40-a1b0-f9b661f59947)
@@ -44,6 +45,7 @@
 # 384p_p2(1).html
 
 2번 문제의 html dom트리
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/df9cde14-c82d-4fd6-a1c9-81d2ad8cea05)
 <br><br><br>
 
@@ -59,6 +61,7 @@ border 버튼 클릭 시 C언어 부분에 점선 테두리 출력
 
 
 # 385p_p2(3).html
+
 p 버튼 클릭 시 alert()로 p태그 개수 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/2d078bfc-4bda-4e9a-a983-8ba9a4800a85)
@@ -100,7 +103,9 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 2. 클릭 시 다른 스페이드 카드 3,2,A 차례로 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/b5eeac69-3d51-4e7c-9e66-0d320312941c)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/6a913720-f519-4126-ab38-b8ba955b47b2)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/4e742e9c-a37a-484f-806b-629d87bd3b88)
 <br><br><br>
 
@@ -110,12 +115,14 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 1. 문구 클릭 시 prompt()창 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/781ac0d7-7bf3-4724-93b2-126aaad5978a)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/45a6949f-4bd0-4fdc-b1e1-03348f709368)
 <br>
 
 2. 텍스트 입력 시 텍스트 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/dc80f100-df83-47e3-89a0-2823db9895d0)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/289b5d32-ca11-47a9-9a4d-d21f9450c709)
 <br><br><br>
 
@@ -124,6 +131,7 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 
 사진 클릭 시 90도 회전(한번 클릭만 가능)
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/0fca28c8-cb68-4f84-a601-b966dfd8f54c)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/550c04a0-a71a-40c6-bc81-3f47cd49b091)
 <br><br><br>
 
@@ -132,7 +140,9 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 
 사진 클릭 시 90도 회전(클릭 할 때마다 회전)
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/0fca28c8-cb68-4f84-a601-b966dfd8f54c)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/550c04a0-a71a-40c6-bc81-3f47cd49b091)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/c43a7340-0155-43a4-b3a2-12bfee631c08)
 <br><br><br>
 
@@ -141,7 +151,9 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 
 사진 클릭 시 열으로 2배 3배 늘어남
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/a3a59b83-5b51-4f49-bb2e-e87262eaf2d8)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/cba0f0ba-e211-484c-8af5-0c2fb3f158ca)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/c5acf1df-128f-4aad-b6d8-80618c3d5127)
 <br><br><br>
 
@@ -151,12 +163,14 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 1. 문구 클릭 시 prompt() 출력
    
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/1783c1d2-1f84-46aa-a3c7-8a43c8120813)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/1460a95e-9c9e-41ae-b122-683bbadfd331)
 <br>
 
 2. 문구 입력 시 ol에 추가
    
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/74ca83b3-f20a-492d-88d0-0f56978cf46f)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/61ab7302-0bfb-4a76-8371-20e7aad0bdf7)
 <br><br><br>
 
@@ -166,6 +180,7 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 답보기 버튼 클릭 시 답 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/4e8acaad-b8fe-4eb0-9e82-7020533504d8)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/b2931077-e43c-429c-b04b-8e2e53d219c2)
 <br><br><br>
 
@@ -175,6 +190,7 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 답을 클릭 시 답 제거
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/4e8acaad-b8fe-4eb0-9e82-7020533504d8)
+<br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/84533a53-4521-45e5-8c76-4af0a8bb32f9)
 <br><br><br>
 
