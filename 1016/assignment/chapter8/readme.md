@@ -34,7 +34,7 @@
 
 # 384p_p1(3).html
 
-리스트 클릭 시 배경색을 yellowgreen으로 변경
+1. 리스트 클릭 시 배경색을 yellowgreen으로 변경
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/1d3e767b-fb92-42bf-8c1d-d04d65ed1c62)
 <br>
@@ -44,7 +44,7 @@
 
 # 384p_p2(1).html
 
-2번 문제의 html dom트리
+1. 2번 문제의 html dom트리
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/df9cde14-c82d-4fd6-a1c9-81d2ad8cea05)
 <br><br><br>
@@ -52,7 +52,7 @@
 
 # 385p_p2(2).html
 
-border 버튼 클릭 시 C언어 부분에 점선 테두리 출력
+1. border 버튼 클릭 시 C언어 부분에 점선 테두리 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/2d078bfc-4bda-4e9a-a983-8ba9a4800a85)
 <br>
@@ -62,7 +62,7 @@ border 버튼 클릭 시 C언어 부분에 점선 테두리 출력
 
 # 385p_p2(3).html
 
-p 버튼 클릭 시 alert()로 p태그 개수 출력
+1. p 버튼 클릭 시 alert()로 p태그 개수 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/2d078bfc-4bda-4e9a-a983-8ba9a4800a85)
 <br>
@@ -72,7 +72,7 @@ p 버튼 클릭 시 alert()로 p태그 개수 출력
 
 # 385p_p3.html
 
-show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
+1. show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/054d26fd-1ba4-43ce-8068-109cc75750b4)
 <br>
@@ -129,7 +129,8 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 
 # 388p_p7(1).html
 
-사진 클릭 시 90도 회전(한번 클릭만 가능)
+1. 사진 클릭 시 90도 회전(한번 클릭만 가능)
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/0fca28c8-cb68-4f84-a601-b966dfd8f54c)
 <br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/550c04a0-a71a-40c6-bc81-3f47cd49b091)
@@ -138,7 +139,8 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 
 # 388p_p7(2).html
 
-사진 클릭 시 90도 회전(클릭 할 때마다 회전)
+1. 사진 클릭 시 90도 회전(클릭 할 때마다 회전)
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/0fca28c8-cb68-4f84-a601-b966dfd8f54c)
 <br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/550c04a0-a71a-40c6-bc81-3f47cd49b091)
@@ -149,7 +151,7 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 
 # 388p_p8.html
 
-사진 클릭 시 열으로 2배 3배 늘어남
+1. 사진 클릭 시 열으로 2배 3배 늘어남
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/a3a59b83-5b51-4f49-bb2e-e87262eaf2d8)
 <br>
@@ -178,7 +180,7 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 
 # 389p_p10(1).html
 
-답보기 버튼 클릭 시 답 출력
+1. 답보기 버튼 클릭 시 답 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/4e8acaad-b8fe-4eb0-9e82-7020533504d8)
 <br>
@@ -188,7 +190,7 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 
 # 389p_p10(2).html
 
-답을 클릭 시 답 제거
+1. 답을 클릭 시 답 제거
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/4e8acaad-b8fe-4eb0-9e82-7020533504d8)
 <br>
