@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>onmouseover와 onmouseout</title>
+	<script>
+		function mouseover(e) {
+			let div = document.createElement("div");
+			div.style.position = "absolute";
+			div.style.display = "inline-block";
+            div.style.border = "1px solid green";
+			div.style.background = "aliceblue"
+			div.id = "div";
+
+			switch(e.target.value) {
+				case 0 : div.innerHTML = "빨간자전거를 타고 서울, 대전, 대구, 부산 찍고, 목포, 인천을 거쳐 달린다"; 
+                break;
+				case 1 : div.innerHTML = "될 수 있도록 많은 책을 읽는다"; 
+                break;
+				case 2 : div.innerHTML = "매일 수영, 달리기, 자전거 타기를 한다"; 
+                break;
+				case 3 : div.innerHTML = "명품 웹프로그래밍 책을 완독한다"; 
+                break;
+        	}
+			document.body.appendChild(div);
+		}
+
+		function mouseout() {
+			let div = document.getElementById("div");
+			let remove = div.parentElement;
+			remove.removeChild(div);
+		}
+
+		function position(e) {
+			let div = document.getElementById("div");
+			let x = e.clientX;
+			let y = e.clientY;
+			div.style.top = y + 10 + "px";
+			div.style.left = x + 20 + "px";
+		}
+	</script>
+</head>
+<body>
+	<h3>아이템에 마우스를 올리면 설명 출력</h3>
+	<hr>
+	<p>여름 방학 때 하고 싶은 것들</p>
+	<ul>
+		<li onmouseover="mouseover(event)" onmouseout="mouseout()" onmousemove="position(event)" 
+        value="0">자전거로 대한민국 일주</li>
+		<li onmouseover="mouseover(event)" onmouseout="mouseout()" onmousemove="position(event)" 
+        value="1">책 100권 읽기</li>
+		<li onmouseover="mouseover(event)" onmouseout="mouseout()" onmousemove="position(event)" 
+        value="2">철인 3종 경기 준비</li>
+		<li onmouseover="mouseover(event)" onmouseout="mouseout()" onmousemove="position(event)" 
+        value="3">자바스크립트 정복</li>
+	</ul>
+    
+</body>
+</html>

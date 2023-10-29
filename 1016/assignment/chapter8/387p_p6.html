@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+	<script>
+		function changePropmt(obj) {
+			let text = prompt("HTML텍스트 혹은 그냥 텍스트를 입력하세요");
+			obj.innerHTML = text;
+		}
+	</script>
+</head>
+<body>
+	<h3>innerHTML</h3>
+	<hr>
+	<p onclick="changePropmt(this)">
+		이번 여름에는 어디로 여행을 갈까요?
+	</p>
+    
+</body>
+</html>

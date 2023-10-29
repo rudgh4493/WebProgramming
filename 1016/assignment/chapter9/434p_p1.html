@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>onblur와 onfocus</title>
+	<script>
+		let body;
+		function onblur() {
+			body = document.getElementById("body");
+		}
+
+		window.addEventListener("blur",
+			function () {
+				body.style.background="lightgray";
+			});
+		window.addEventListener("click",
+			function () {
+				body.style.background="white";
+			});
+	</script>
+</head>
+<body>
+<body id="body" onload="onblur()">
+
+	<h3>포커스와 onblur, onfocus</h3>
+	<hr>
+    
+	<p>
+		브라우저 바깥에 마우스를 클릭하면 window 객체에 blur 이벤트가 발생하고 다시 마우스를 클릭하면 window 객체에 focus 이벤트가 발생한다.
+	</p>
+    
+</body>
+</html>

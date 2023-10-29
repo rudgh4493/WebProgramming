@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>trasform.rotate()</title>
+	<style>
+		img {
+			transition: width 1s;
+			width: 100px;
+			height: 100px;
+		}
+	</style>
+	<script>
+		let num = 1;		
+		function expansion(obj, width) {
+			num += 1;
+			obj.style.width = width * num + "px";
+		}
+	</script>
+</head>
+<body>
+	<h3>클릭하면 2,3,4배로 옆으로 늘어납니다.</h3>
+	<hr>
+	<img src="media/spongebob.png" onclick="expansion(this, 100)">
+</body>
+</html>

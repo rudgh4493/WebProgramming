@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>계산기 만들기</title>
+    <style>
+        #text{
+            width: 350px;
+        }
+		button {
+            width: 5em; 
+            margin: 10px;
+        }
+    </style>
+
+	<script>
+		function foc() {
+			let text = document.getElementById("text");
+			if(text.value == "0") text.value = "";
+		}
+
+		function back() {
+			let text = document.getElementById("text");
+			text.value = text.value.slice(0,text.value.length-1);
+		}
+
+		function reset() {
+			let text = document.getElementById("text");
+			text.value = "";
+		}
+
+		function result() {
+			let text = document.getElementById("text");
+			text.value = eval(text.value);
+		}
+
+		function button(e) {
+			let text = document.getElementById("text");
+			if(text.value == "0") text.value = "";
+			text.value += e.target.innerHTML;
+		}
+
+	</script>
+</head>
+<body>
+	<h3>계산기 만들기</h3>
+	<hr>
+
+	<form>
+		<input id="text" type="text" value="0" onfocus="foc()">
+		<table>
+			<tr>
+				<td><button onclick="back()" type="button">BACK</button></td>
+				<td><button onclick="reset()" type="button">CE</button></td>
+				<td><button onclick="reset()" type="button">C</button></td>
+				<td><button onclick="result()"type="button">=</button></td>
+			</tr>
+
+			<tr>
+				<td><button onclick="button(event)" type="button">7</button></td>
+				<td><button onclick="button(event)"type="button">8</button></td>
+				<td><button onclick="button(event)"type="button">9</button></td>
+				<td><button onclick="button(event)"type="button">/</button></td>
+			</tr>
+
+			<tr>
+				<td><button onclick="button(event)"type="button">4</button></td>
+				<td><button onclick="button(event)"type="button">5</button></td>
+				<td><button onclick="button(event)"type="button">6</button></td>
+				<td><button onclick="button(event)"type="button">*</button></td>
+			</tr>
+
+			<tr>
+				<td><button onclick="button(event)"type="button">1</button></td>
+				<td><button onclick="button(event)"type="button">2</button></td>
+				<td><button onclick="button(event)"type="button">3</button></td>
+				<td><button onclick="button(event)"type="button">-</button></td>
+			</tr>
+
+			<tr>
+				<td><button onclick="button(event)"type="button">0</button></td>
+				<td><button onclick="button(event)"type="button">+</button></td>
+				<td><button type="button">NONE</button></td>
+				<td><button type="button">NONE</button></td>
+			</tr>
+
+		</table>
+	</form>
+    
+</body>
+</html>

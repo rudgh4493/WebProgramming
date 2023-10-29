@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>이벤트 객체의 target</title>
+	<script>
+		window.onmouseover = function (e) {
+			let spans = document.getElementsByTagName("span");
+			for(let i=0; i<spans.length; i++) {
+				spans[i].style.textDecoration="underline";
+			}
+		}
+
+		window.onmouseout = function (e) {
+			let spans = document.getElementsByTagName("span");
+			for(let i=0; i<spans.length; i++) {
+				spans[i].style.textDecoration="blink";
+			}
+		}
+	</script>
+</head>
+<body>
+	<h3>span 태그에만 onmouseover/onmouseout</h3>
+	<hr>
+
+	<p>
+		span 태그에 대해서만 <span>마우스</span>가 올라올 때 밑줄이 그어지고 <span>마우스</span>가 내려갈 때 밑줄이 사라지도록 <span>자바스크립트 코드</span>를 작성한다.
+	</p>    
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>갬블링 게임</title>
+    <style>
+		.num {
+			display: inline-block;
+			margin: 10px;
+			font: italic bold 50px consolas;
+			color: blue;
+		}
+
+		#box {
+			display: inline-block;
+			border: 1px solid pink;
+			background: antiquewhite;
+		}
+    </style>
+    <script>
+		function change(obj) {
+			var n = Math.floor(Math.random()*3);
+			if(obj.style.color == "violet") return;
+			obj.innerHTML = n;
+			obj.style.color = "violet";
+
+			var numArr = new Array();
+			numArr[0] = document.getElementById("num1");
+			numArr[1] = document.getElementById("num2");
+			numArr[2] = document.getElementById("num3");
+
+			var flag1 = false, flag2 = false
+
+			if(numArr[0].style.color == "violet" && 
+			   numArr[1].style.color == "violet" &&
+			   numArr[2].style.color == "violet") { 
+				flag1 = true;
+
+			var newDiv = document.createElement("div");
+				newDiv.style.color = "violet";
+				newDiv.addEventListener("click", 
+					function() {
+						for(var i=0; i<numArr.length; i++) {
+						numArr[i].style.color = "blue";
+						numArr[i].innerHTML = 0;
+					}
+				var parent = this.parentElement;
+					parent.removeChild(this);
+					}
+				);
+			var body = document.getElementById("body");
+				body.appendChild(newDiv);
+			}
+
+			if(numArr[0].innerHTML == numArr[1].innerHTML && 
+			   numArr[1].innerHTML == numArr[2].innerHTML && 
+			   flag1) {
+				
+				flag2 = true;
+				newDiv.innerHTML = "Success (click here to do again)";
+			}
+			else { newDiv.innerHTML = "Fail (click here to do again)"; }
+		}
+        
+    </script>
+</head>
+<body id="body">
+    <h3>갬블링 게임</h3>
+    <p>각 숫자를 클릭하면 0에서 2사이의 난수로 바뀝니다. 모두 같은 수가 나오면 승리합니다.</p>
+    <hr>
+	<div id="box">
+		<div class="num" id="num1" onclick="change(this)">0</div>
+		<div class="num" id="num2" onclick="change(this)">0</div>
+		<div class="num" id="num3" onclick="change(this)">0</div>
+	</div>
+</body>
+</html>
