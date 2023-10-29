@@ -1,4 +1,4 @@
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/d953503c-518b-4bbc-b98e-45b5b0aa6d60)![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/c4e9581b-522f-4eff-ba1a-8e781b78c962)# 380p.html
+# 380p.html
 1. 세개의 0을 출력
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/41eb7457-5d5c-478c-957c-9e6824a39fff)
