@@ -150,6 +150,7 @@ show/hide 버튼 클릭 시 괄호 안의 문자 표시, 숨기기
 # 388p_p8.html
 
 사진 클릭 시 열으로 2배 3배 늘어남
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/a3a59b83-5b51-4f49-bb2e-e87262eaf2d8)
 <br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/cba0f0ba-e211-484c-8af5-0c2fb3f158ca)
