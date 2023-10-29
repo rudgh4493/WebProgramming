@@ -1,4 +1,4 @@
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/7e13a074-e2ca-4432-a63f-761f3b8a7a39)![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/64f1f2aa-5305-43ee-8ea5-4fcda4aa9bea)# 430p.html
+# 430p.html
 
 1. 표를 이용하여 10 X 10 격자 생성, 랜덤위치에 강아지 사진 출력
    
