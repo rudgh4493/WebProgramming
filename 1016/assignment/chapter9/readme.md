@@ -67,6 +67,8 @@
 1. 배경 더블클릭 시 배경색 랜덤으로 변경
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/503953c5-a605-4efb-9222-7c043c9dd641)
+<br>
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/3dec46e5-1a02-44df-996e-a758cdbbead7)
 <br><br><br>
 
