@@ -1,0 +1,61 @@
+1030 웹프
+
+26/11
+
+발표주제
+1. "ngineX, apache", tomcat, IIS
+2.  apmsetup, autoset, xampp, wampp, laragon
+
+3. ngineX & PHP
+
+디스플레이 방법
+css예제로 꾸밀 수 있다.
+
+자바스크립트로 jQuery
+구현한 예제
+
+w3schools.com		https://opentutorials.org/course/1		tcpschool
+
+spring react
+
+인프런
+
+
+<!DOCTYPE html>
+<html lang="ko"> 
+<head>
+    <meta charset="UTF-8">
+    <title>PHP Syntax</title>
+</head>
+<body>
+<?php
+    echo "PHP 수업에 잘 오셨습니다!"
+?>
+</body>
+</html>
+
+
+php강의 https://www.tcpschool.com/php/php_intro_works
+
+
+개요 
+동작원리
+문법
+
+변수
+변수의종류
+상수
+
+
+라라곤 설치
+wordpress 라라곤 설치
+
+
+wp localize 이용
+학기중 wordpress이용 할 수 있어야함
+카톡으로 연습문제
+
+깃허브 호스팅이 php로 작업이 되겟나?
+
+
+
