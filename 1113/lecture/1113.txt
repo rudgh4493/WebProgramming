@@ -1,0 +1,33 @@
+pyscript
+
+파이썬 자바스크립트
+pyodide + webassembly
+
+_________
+pyscript
+파이썬과 표준 html결합
+
+웹 어셈블리(wasm)
+pythonzhem - 컴파일 - pyodide - 변환 - wasm - 실행
+
+브라우저 js실행보다 브라우저 wasm 실행이 더 빠름
+
+장점
+더 빠른 속도
+다양한 언어 개발 가능
+플랫폼과 운영체제에서 독립적
+
+단점
+디버깅과 테스트과정 복잡
+개발시간증가
+호환성문제
+
+figma, uno platform,
+
+pyscript장점
+파이썬 문법사용
+    간결하고 직관적인 코드
+    코드가독성 높음
+    파이썬과 같은 생태계
+단점 
+아직 시험단계
