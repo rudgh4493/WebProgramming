@@ -32,6 +32,7 @@ A
 # p3
 
 'exam.txt' 라는 파일을 열어 그 파일의 줄 수, 단어 수, 글자 수를 계산하는 프로그램을 작성하시오.
+
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/eaa22a22-deb5-4873-987b-dee8835a6951)
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/c5c007d0-8fec-46c3-bb60-b84ac0367440)
