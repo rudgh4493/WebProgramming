@@ -1,0 +1,52 @@
+css
+javascript
+
+sss
+asp
+
+jsp php asp
+
+클래스
+scamper
+
+자바스크립트 객체만드는법   -   기말
+object()    객체 리터럴     생성자함수
+
+php객체만드려면 클래스가 있어야함
+접근지정자
+
+자바 getter setter
+
+메소드 오버로딩     메소드 오버라이딩
+
+static은 static만 호출가능 non-static
+
+->
+::  범위지정연산자
+
+추상메소드 인터페이스ㅡ
+
+바인딩
+컴파일때 결정   정적바인딩
+실행때 결정     동적바인딩
+
+form
+
+____________________
+js regex 북마크릿 만들기
+북마크릿    웹브라우저의 북마크바에 추가하여 
+            사용할 수 있는 작은 자바스크립트 프로그램
+
+정규표현식
+
+
+
+[네이버](https://naver.com)
+
+[Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/).
+
+
+https://tcpschool.com/php/php_form_required
+https://tcpschool.com/examples/tryit/tryphp.php?filename=php_form_validation_02
+https://bootsnipp.com/snippets/vl4R7
+https://www.w3schools.com/bootstrap5/bootstrap_images.php
