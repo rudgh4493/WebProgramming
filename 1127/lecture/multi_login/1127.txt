@@ -29,4 +29,16 @@ daum api란
  가장최신데이터를 이용가능
  https://postcode.map.daum.net/guide
 ______________
+네이버 api
+로그인 방식 - 로그인 카페 캘린더
+비로그인 방식 - 검색 클로버 파파고
+______________
+google api
+
+OAuth 설정
+
+
+
+워드프레스 api플러그인 많음
+프로젝트 만들기
 
