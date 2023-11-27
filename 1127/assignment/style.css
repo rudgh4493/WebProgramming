@@ -1,0 +1,106 @@
+* {/* 모든 요소의 마진과 패딩을 초기화합니다. */
+  margin: 0px;
+  padding: 0px;
+}
+
+body {/* 전체 문서의 기본 글꼴 크기와 배경색을 설정합니다. */
+  font-size: 120%;
+  background: #f8f8ff;
+}
+
+.header {/* 페이지 상단 헤더 부분의 스타일을 설정합니다. */
+  width: 40%;
+  margin: 50px auto 0px;
+  color: white;
+  background: #5f9ea0;
+  text-align: center;
+  border: 1px solid #b0c4de;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+
+form,
+.content {/* 폼과 콘텐츠 영역의 스타일을 설정합니다. */
+  width: 40%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #b0c4de;
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.input-group {/* 입력 그룹의 마진을 설정합니다. */
+  margin: 10px 0px 10px 0px;
+}
+
+.input-group label {/* 입력 그룹의 레이블 스타일을 설정합니다. */
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+
+.input-group input {/* 입력 그룹의 입력 필드 스타일을 설정합니다. */
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+#user_type {/* ID가 'user_type'인 요소의 스타일을 설정합니다. */
+  height: 40px;
+  width: 98%;
+  padding: 5px 10px;
+  background: white;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.btn {/* 버튼의 스타일을 설정합니다. */
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #5f9ea0;
+  border: none;
+  border-radius: 5px;
+}
+
+.error {/* 오류 메시지 영역의 스타일을 설정합니다. */
+  width: 92%;
+  margin: 0px auto;
+  padding: 10px;
+  border: 1px solid #a94442;
+  color: #a94442;
+  background: #f2dede;
+  border-radius: 5px;
+  text-align: left;
+}
+
+.success {/* 성공 메시지 영역의 스타일을 설정합니다. */
+  color: #3c763d;
+  background: #dff0d8;
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+
+.profile_info img {/* 프로필 이미지의 스타일을 설정합니다. */
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  float: left;
+}
+
+.profile_info div {/* 프로필 정보의 스타일을 설정합니다. */
+  display: inline-block;
+  margin: 5px;
+}
+
+.profile_info:after {/* 프로필 정보의 후속 스타일을 설정합니다. */
+  content: "";
+  display: block;
+  clear: both;
+}
