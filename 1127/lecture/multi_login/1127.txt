@@ -1,0 +1,32 @@
+오늘 한 파일들 한글로 주석 달아오기
+chatgpt 복붙가능
+
+소스 분석
+
+
+https://codewithawa.com/posts/admin-and-user-login-in-php-and-mysql-database
+
+______________
+api란?
+public private partner
+______________
+XML JSON parsing
+클라이언트가 요청
+api서버가 XML JSON을 전달
+클라이언트가 XML JSON을 데이터로 파싱
+
+XML 태그에 기반한 마크업 언어
+ 저장되는 데이터의 구조를 기술하기 위한 용도로 사용
+
+JSON 저장되는 데이터의 구조를 기술하기 위한 언어
+ 간단하게 설계 
+ javascript에 익숙하면 수월하게 이해 가능
+______________
+daum api란
+ 우편번호는 key 발급 필요 없음
+ 사용량제한x
+ 용도상관없이 무료사용
+ 가장최신데이터를 이용가능
+ https://postcode.map.daum.net/guide
+______________
+
