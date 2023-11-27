@@ -59,7 +59,7 @@
 
 
 
-# index.php 
+# style.css
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/13e0ff41-5db0-40dd-9790-ecf4153d7cc9)
 
