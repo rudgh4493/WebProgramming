@@ -27,6 +27,7 @@
 # p2
 
 1. 해당 문제의 오류를 수정한 뒤 주석으로 설명.
+   
 <br>
 
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/0583b752-464c-4c2b-bffb-586eca60c718)
