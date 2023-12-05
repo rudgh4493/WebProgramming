@@ -1,4 +1,4 @@
-![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/8f8f4f30-d6f9-4f2a-9640-7eea00fa11a0)# 58p Open Challege
+# 58p Open Challege
 
 1. 간단한 자기소개 Html페이지
 2. 이름위에 마우스를 올리면 사진 출력
