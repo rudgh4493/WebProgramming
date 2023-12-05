@@ -17,7 +17,7 @@
 <br>
 ![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/74e0e6e5-8787-4e44-af30-91533ce37231)
 
-<br><br><br>
+<br><br><br>![image](https://github.com/rudgh4493/WebProgramming/assets/70314961/8f8f4f30-d6f9-4f2a-9640-7eea00fa11a0)
 # p2
 
 1. 해당 문제의 오류를 수정한 뒤 주석으로 설명.
